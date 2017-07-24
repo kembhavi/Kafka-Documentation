@@ -80,24 +80,10 @@ Some Other Useful Commands
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Open Eclipse:
+1. Create New Java Project.
+2. Create Two Classes Producer And Consumer namaly.
+3. Copy the Above Code and Add Required Jar Files in the above jar Folder.
+4. then Run the Zookeeper.
+5. Then Run the Kafka Server.
+6. Then Run Producer Program And then run the Consumer Program you get the output.
